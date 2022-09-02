@@ -1,0 +1,2 @@
+# Nobelium
+Nobelium Discord Bot
